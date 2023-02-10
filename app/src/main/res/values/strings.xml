@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">DHomestay</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- to toggle the open close button of the navigation drawer -->
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <string name="max_price"> - 100 triệu</string>
+    <string name="min_price">1 triệu</string>
+    <string name="max_star"> - 5</string>
+    <string name="min_star">1</string>
+    <string name="price_homestay_detial">1.500.000 VNĐ</string>
+    <string name="detail_des">Đoạn trường tân thanh, thường được biết đến với cái tên đơn giản là Truyện Kiều, là một truyện thơ của đại thi hào Nguyễn Du. Đây được xem là truyện thơ nổi tiếng</string>
+</resources>
